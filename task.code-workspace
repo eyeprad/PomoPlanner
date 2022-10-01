@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "task-ui",
+			"path": "task-ui"
+		},
+		{
+			"name": "task-server",
+			"path": "task-server"
+		}
+	],
+	"settings": {
+		"terminal.integrated.automationShell.windows": ""
+	}
+}
